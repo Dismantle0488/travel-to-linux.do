@@ -1,10 +1,10 @@
 # 介绍
 
-本文档是 Linux DO 的个人 Wiki 版本，也就由个人的喜好编辑而成。
+本文档是 [Linux DO](https://linux.do/) 的个人 Wiki 版本，也就由个人的喜好编辑而成。
 
 游客可浏览半官方 Wiki：
 
-- [Linux Do Wiki 文档站](https://wiki.linux.do/)
+- [Linux DO Wiki 文档站](https://wiki.linux.do/)
 
 以及导航：
 
@@ -22,4 +22,4 @@
 - ……
 
 
-!> 摘录公开页面，对于lv1、lv2、lv3 是不会的，如果想看请加入 Linux DO
+!> 摘录公开页面，对于 Lv1、Lv2、Lv3 是不会的，如果想看请加入 Linux DO
