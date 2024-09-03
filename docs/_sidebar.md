@@ -10,4 +10,5 @@
   - [运营反馈](hello-L/feedback)
 - 📁 工具集合
   - [脚本](/tools/script)
-- [资源荟萃](/resource/README)
+- 📁 资源福利
+  - [资源荟萃](resource/index)
