@@ -8,5 +8,6 @@
 - [【更新赠送额度为50刀！支持Claude3.5】最新免费的公益API来啦，可好吃了！](https://linux.do/t/topic/191320)
 - [http://34.92.91.9/#/chat](http://34.92.91.9/#/chat)
 - [RawChat公益站点](https://kelaode.ai/)：共享Claude账号
+- [SMNET API](https://api.smnet.asia/)：支持 Linux DO Connect 注册
 
 ## 免费域名

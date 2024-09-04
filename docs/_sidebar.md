@@ -12,3 +12,4 @@
   - [脚本](/tools/script)
 - 📁 资源福利
   - [资源荟萃](resource/index)
+  - [随机漫步](resource/random)
