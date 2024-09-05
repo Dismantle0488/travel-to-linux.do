@@ -9,6 +9,7 @@
   - [相关网页](hello-L/internet)
   - [运营反馈](hello-L/feedback)
 - 📁 工具集合
+  - [回复](/tools/reply)
   - [脚本](/tools/script)
 - 📁 资源福利
   - [资源荟萃](resource/index)
