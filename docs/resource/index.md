@@ -9,5 +9,9 @@
 - [http://34.92.91.9/#/chat](http://34.92.91.9/#/chat)
 - [RawChat公益站点](https://kelaode.ai/)：共享Claude账号
 - [SMNET API](https://api.smnet.asia/)：支持 Linux DO Connect 注册
+- [free.swt-ai.com](https://free.swt-ai.com/)
 
 ## 免费域名
+
+- [免费域名](https://linux.do/t/topic/26864)
+- [https://www.cloudns.net ](https://www.cloudns.net)可以免费申请二级域名
