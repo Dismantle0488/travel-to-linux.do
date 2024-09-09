@@ -15,3 +15,11 @@
 
 - [免费域名](https://linux.do/t/topic/26864)
 - [https://www.cloudns.net ](https://www.cloudns.net)可以免费申请二级域名
+
+## SMNET Studio
+
+- [图床](https://img.smnet1.com/)
+- [API](https://api.smnet.asia/)
+
+
+## Deepl
