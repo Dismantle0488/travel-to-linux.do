@@ -1,5 +1,11 @@
 # 随机漫步
 
+#### 免接码注册 Google
+
+1. 自带 Google 框架直接注册大概率不用手机号（手机自带谷歌框架是有safetynet验证）
+2. 干净 ip
+3. 不要网页注册，风控值太大，后期网页注册的账号跳手机验证概率大
+
 - [Awesome Cloudflare](https://github.com/zhuima/awesome-cloudflare)：收录基于 Cloudflare 的开源工具
 
 > 谷歌镜像

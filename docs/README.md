@@ -1,6 +1,6 @@
 # 介绍
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v0.0.12-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v0.0.13-blue)
 
 本文档是 [Linux DO](https://linux.do/) 的个人 Wiki 版本，也就由个人的喜好编辑而成。
 
