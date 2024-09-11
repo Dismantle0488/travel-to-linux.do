@@ -22,4 +22,6 @@
 - [API](https://api.smnet.asia/)
 
 
-## Deepl
+## DeepL
+
+- [DeepLX Serverless](https://github.com/guobao2333/DeepLX-Serverless)

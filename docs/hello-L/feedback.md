@@ -10,6 +10,42 @@ https://linux.do/search?q=%40neo%20%20in%3Afirst%20%23feedback
 
 -->
 
+## 2024.09.10 论坛邀请规则和Shared Chat相关调整
+
+[最近](https://linux.do/t/topic/201924)看下来企稳，可以逐步放松风控。不长篇大论，直接说。调整如下：
+
+1. [Shared Chat](https://shared.oaifree.com/) 调整可访问区域为：内地、港澳台。原为：内地、港
+2. 账号清理功能已关闭。原为：每日清理注册7天以上，0帖子的0级用户
+3. 创建和接受邀请调整可使用区域为：内地、港澳台。原为：内地
+4. 邀请创建人需 3级未变更。
+
+另附支持的邮箱后缀（无调整，亦不影响已有账号）：
+
+- 126.com
+- 139.com
+- 163.com
+- 189.cn
+- aliyun.com
+- apache.org
+- deepseek.com
+- edu.cn
+- edu.hk
+- edu.mo
+- edu.tw
+- foxmail.com
+- gmail.com
+- gov.cn
+- linux.do
+- qq.com
+- sina.cn
+- sina.com
+- sohu.com
+- xiaomi.com
+- yahoo.com
+- yeah.net
+
+不要问真的有 gov.cn 吗？我也不知道，据说可以有。
+
 ## 2024.09.10 请大家警惕垃圾邮件引流
 
 [从](https://linux.do/t/topic/201312) [你们有收到某个论坛的广告么](https://linux.do/t/topic/201301)继续讨论：
