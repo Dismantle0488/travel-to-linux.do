@@ -25,3 +25,8 @@
 ## DeepL
 
 - [DeepLX Serverless](https://github.com/guobao2333/DeepLX-Serverless)
+
+## Vercel 可以部署的项目 
+
+- [NextChat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+- [IT-Tools](https://github.com/CorentinTh/it-tools)：开发人员和 IT 从业人员的实用工具。
