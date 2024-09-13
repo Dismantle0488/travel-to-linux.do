@@ -10,6 +10,21 @@ https://linux.do/search?q=%40neo%20%20in%3Afirst%20%23feedback
 
 -->
 
+## 2024.09.13 oaifree 对o1的跟进情况
+
+
+new.oaifree.com [用的](https://linux.do/t/topic/204899)是比较新且 bug 少的 remix 版本，o1 系列模型直接使用，跟官网体验没差。
+
+shared.oaifree.com UI 跟 new 相同，里面有几百个 Plus 自己去抽奖吧。
+
+api.oaifree.com 支持 `o1-preview o1-mini` 模型请求。
+
+Share Token 已支持对 `gpt-4` `gpt-4o` `gpt-4o-mini` `o1-preview o1-mini` 的限量。
+
+demo.oaifree.com 经典 UI，对于 o1 系列模型能用，但显示上略有小瑕疵。
+
+大概就是这些。
+
 ## 2024.09.12 中秋了，晒月饼赢绝版徽章
 
 [来了](https://linux.do/t/topic/203134)来了，绝版徽章喜加一。
