@@ -1,5 +1,15 @@
 # 随机漫步
 
+### 0005
+
+DeepLX 免费 API
+
+- [https://deeplx.missuo.ru](https://deeplx.missuo.ru/)
+
+您需要在该页面获取你专属的 DeepLX API Endpoint，如果您的 GitHub 帐号超过三年，则可以获取每天50万字符，如果不足三年，则只能获取每天1万字符。（你的使用量会在美国东部时间 America/New_York 每天0点重置）
+
+如果需要每日超过 50 万字符的用量，有合理的用途可以[私聊](http://t.me/missuo)，最高可以一天 1000 万字符。
+
 ### 0004
 
 [自建 fofa 站点](https://fofa.guagua.info/)
