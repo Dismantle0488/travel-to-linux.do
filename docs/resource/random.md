@@ -1,5 +1,11 @@
 # 随机漫步
 
+### Steam 游戏账号
+
+- [2000+Steam游戏账号](https://knuiyst13l.feishu.cn/sheets/shtcnkYFNcmcd7hJynZDNUjgFEf)
+- [SteamTools](https://bbs.steamtools.net/)
+
+
 ### 0005
 
 DeepLX 免费 API
