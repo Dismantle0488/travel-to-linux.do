@@ -25,6 +25,7 @@
 ## DeepL
 
 - [DeepLX Serverless](https://github.com/guobao2333/DeepLX-Serverless)
+- [DeepLX api](https://deeplx.edu6.eu.org/translate?token=666666)
 
 ## Vercel 可以部署的项目 
 

@@ -15,3 +15,4 @@
 - [Shared Chat](https://shared.oaifree.com/dashboard)
 - [New Chat](https://new.oaifree.com/)
 - [Fuclaude](https://demo.fuclaude.com/)
+- [Deeplx](https://linux.do/t/topic/111737)
