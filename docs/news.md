@@ -1,5 +1,9 @@
 # 前沿快讯
 
+## 2024.09.27 高级语音模式
+
+在 [https://new.oaifree.com/](https://new.oaifree.com/)，部分ChatGPT 普号也能用。
+
 ## 2024.09.13 OpenAI o1 发布
 
 ## 2024.09.10 论坛机器人又没了 && Follow 开发者已经入驻本论坛
