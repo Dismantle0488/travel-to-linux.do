@@ -5,6 +5,9 @@
 - [2000+Steam游戏账号](https://knuiyst13l.feishu.cn/sheets/shtcnkYFNcmcd7hJynZDNUjgFEf)
 - [SteamTools](https://bbs.steamtools.net/)
 
+## 自助 edu.kg 邮箱
+
+https://linux.do/t/topic/223730
 
 ### 0005
 
@@ -24,7 +27,7 @@ DeepLX 免费 API
 
 免接码注册 Google
 
-1. 自带 Google 框架直接注册大概率不用手机号（手机自带谷歌框架是有safetynet验证）
+1. 使用手机自带 Google 框架直接注册大概率不用手机号（手机自带谷歌框架是有 safetynet 验证）
 2. 干净 ip
 3. 不要网页注册，风控值太大，后期网页注册的账号跳手机验证概率大
 
