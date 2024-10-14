@@ -12,7 +12,7 @@
 ## 免费域名
 
 - [免费域名](https://linux.do/t/topic/26864)
-- [https://www.cloudns.net ](https://www.cloudns.net)可以免费申请二级域名
+- [https://www.cloudns.net ](https://www.cloudns.net)
 
 ## SMNET Studio
 
