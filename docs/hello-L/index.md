@@ -25,7 +25,8 @@
 
 也有一些在线申请渠道：
 
-> [Linux.DO 注册申请](https://bit.ly/m/linuxdoinvite) 或 [申请邀请码](https://apply.linuxdo.studio/apply)
+1. https://bit.ly/m/linuxdoinvite
+2. https://apply.linuxdo.studio/apply
 
 
 !> 有时 **会清理** 阅读时间 <10 分钟的用户，请花时间游览

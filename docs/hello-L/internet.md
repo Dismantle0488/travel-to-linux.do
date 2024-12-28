@@ -9,10 +9,6 @@
 - [TG Channel](https://t.me/linux_do_channel)
 - [TG Group](https://t.me/ja_netfilter_group)
 - [标签](https://linux.do/tags)
-
-## 福利
-
-- [Shared Chat](https://shared.oaifree.com/dashboard)
-- [New Chat](https://new.oaifree.com/)
+- [徽章](https://linux.do/badges)
 - [Fuclaude](https://demo.fuclaude.com/)
 - [Deeplx](https://linux.do/t/topic/111737)
