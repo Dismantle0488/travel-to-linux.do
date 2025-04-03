@@ -27,9 +27,11 @@
 
 ```html
 <iframe
-src="//player.bilibili.com/player.html?bvid=BV1fx411N7bU&p=1&poster=1&danmaku=0&autoplay=0"
+src="https://player.bilibili.com/player.html?bvid=BV1fx411N7bU&p=1&poster=1&danmaku=0&autoplay=0"
 scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
 </iframe>
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1K6ktYBEt7&autoplay=0&hideCoverInfo=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 ```
 
 aid 与 bvid 二选一即可
