@@ -21,18 +21,14 @@
 
 ## 加入
 
-目前论坛是邀请制， `3级` 用户才有权限。
+<!-- 目前论坛是邀请制， `3级` 用户才有权限。
 
-也有一些在线申请渠道：
+也有一些在线申请渠道： -->
 
-<<<<<<< HEAD
->Linux.DO 注册申请 [通道 A](https://bit.ly/m/linuxdoinvite) 、 [通道 B](https://apply.linuxdo.studio/apply)
-=======
-1. https://bit.ly/m/linuxdoinvite
-2. https://apply.linuxdo.studio/apply
->>>>>>> 3942f6d6849047358ceec3580cdee5e21d0ea666
+> Linux.DO 注册申请
 
-!> 有时 **会清理** 阅读时间 <10 分钟的用户，请花时间游览
+当前注册邀请码：`b9deC8TJzKeyvilN`
+
 
 需要内地 IP 接受，同时限制注册邮箱为以下域名后缀：
 
