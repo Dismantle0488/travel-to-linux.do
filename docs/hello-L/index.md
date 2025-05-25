@@ -2,7 +2,7 @@
 
 成立时间：2024 年 1 月 17 日
 
-版主：Neo
+管理员：Neo
 
 读读 [你们赢了，但我却没有输](https://linux.do/t/topic/1051)，了解 **L 站** 的背景故事。
 
@@ -25,9 +25,12 @@
 
 也有一些在线申请渠道：
 
+<<<<<<< HEAD
+>Linux.DO 注册申请 [通道 A](https://bit.ly/m/linuxdoinvite) 、 [通道 B](https://apply.linuxdo.studio/apply)
+=======
 1. https://bit.ly/m/linuxdoinvite
 2. https://apply.linuxdo.studio/apply
-
+>>>>>>> 3942f6d6849047358ceec3580cdee5e21d0ea666
 
 !> 有时 **会清理** 阅读时间 <10 分钟的用户，请花时间游览
 
