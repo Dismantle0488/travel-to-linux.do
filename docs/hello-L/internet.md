@@ -9,6 +9,7 @@
 - [TG Channel](https://t.me/linux_do_channel)
 - [TG Group](https://t.me/ja_netfilter_group)
 - [标签](https://linux.do/tags)
+- [Linux Do CDK](https://cdk.linux.do/)：内容分发平台
 
 =======
 
