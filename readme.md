@@ -2,7 +2,7 @@
 
 ## 介绍
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v1.0.1-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.0-blue)
 
 本文档是 [Linux DO](https://linux.do/) 的个人 Wiki 版本，也就由个人的喜好编辑而成。
 
@@ -81,7 +81,7 @@ privaterelay.appleid.com
 
 ## 社区准则
 
-读读 https://linux.do/faq ，了解社区准则。
+读读 <https://linux.do/faq> ，了解社区准则。
 
 能让你在 L 站度过新手期，也能让你在 L 站玩的更开心。
 
