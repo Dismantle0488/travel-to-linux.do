@@ -1,8 +1,26 @@
 # Linux DO 之旅
 
-## 介绍
+![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.1-blue)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.0-blue)
+## 目录
+
+- [介绍](#介绍)
+- [目标](#目标)
+- [开始](#开始)
+- [认识 L 站](#认识-l-站)
+- [约法三章](#约法三章)
+- [加入](#加入)
+- [社区准则](#社区准则)
+- [相关网页](#相关网页)
+- [Neo 小作文](#neo-小作文)
+- [集中贴](#集中贴)
+- [回复增强](#回复增强)
+  - [文件](#文件)
+  - [插入音频](#插入音频)
+  - [插入视频](#插入视频)
+  - [插入哔哩视频](#插入哔哩视频)
+
+## 介绍
 
 本文档是 [Linux DO](https://linux.do/) 的个人 Wiki 版本，也就由个人的喜好编辑而成。
 
@@ -13,8 +31,6 @@
 - 运营反馈
 - 辅助脚本、代码等
 - ……
-
-> 摘录公开页面，对于 Lv1、Lv2、Lv3 是不会的，如果想看请加入 Linux DO
 
 ## 开始
 
@@ -89,6 +105,7 @@ privaterelay.appleid.com
 
 - [Linux.do](https://linux.do/)
 - [Linuxdo.org](https://linuxdo.org)：备用域
+- [社区准则](https://linux.do/faq)
 - [关于 LINUX DO](https://linux.do/about)
 - [排行榜](https://linux.do/leaderboard)
 - [服务监控](https://status.linux.do/)
@@ -97,12 +114,27 @@ privaterelay.appleid.com
 - [TG Group](https://t.me/ja_netfilter_group)
 - [标签](https://linux.do/tags)
 - [Linux Do CDK](https://cdk.linux.do/)：内容分发平台
+- [IDC Flare](https://idcflare.com/)：域名、主机等信息集散地，二胎
 
-=======
+---
 
 - [徽章](https://linux.do/badges)
 - [Fuclaude](https://demo.fuclaude.com/)
 - [Deeplx](https://linux.do/t/topic/111737)
+
+---
+
+## Neo 小作文
+
+- [我有一个执念](https://linux.do/t/topic/971168)
+
+## 集中贴
+
+- [网易云音乐、爱奇艺、腾讯视频等福利集中帖](https://linux.do/t/topic/851040)
+- [Fellou 邀请码集中帖](https://linux.do/t/topic/890429)
+- [CodeBuddy 邀请码集中帖](https://linux.do/t/topic/890424)
+- [Google AI Pro 邀请码集中帖](https://linux.do/t/topic/865608)
+- [Coze 邀请码集中帖](https://linux.do/t/topic/575730)
 
 ## 回复增强
 
