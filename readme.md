@@ -1,6 +1,6 @@
 # Linux DO 之旅
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.1-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.2-blue)
 
 ## 目录
 
@@ -13,12 +13,15 @@
 - [社区准则](#社区准则)
 - [相关网页](#相关网页)
 - [Neo 小作文](#neo-小作文)
+- [公告](#公告)
 - [集中贴](#集中贴)
 - [回复增强](#回复增强)
+  - [Obsidian Callouts](#obsidian-callouts)
   - [文件](#文件)
   - [插入音频](#插入音频)
   - [插入视频](#插入视频)
   - [插入哔哩视频](#插入哔哩视频)
+- [插件脚本](#插件脚本)
 
 ## 介绍
 
@@ -126,7 +129,12 @@ privaterelay.appleid.com
 
 ## Neo 小作文
 
+- [秘密花园园丁邀请函](https://linux.do/t/topic/847468)
 - [我有一个执念](https://linux.do/t/topic/971168)
+
+## 公告
+
+- [关于优化交易、推广需求的变更公告](https://linux.do/t/topic/735935)
 
 ## 集中贴
 
@@ -137,6 +145,11 @@ privaterelay.appleid.com
 - [Coze 邀请码集中帖](https://linux.do/t/topic/575730)
 
 ## 回复增强
+
+### Obsidian Callouts
+
+- [搞一点妖艳的 Obsidian Callouts](https://linux.do/t/topic/964458)
+- [Callouts - Obsidian Help](https://help.obsidian.md/callouts)
 
 ### 文件
 
@@ -185,3 +198,7 @@ aid 与 bvid 二选一即可
 | danmaku  | 字幕开关     | danmaku=1 （开） / danmaku=0 （关）   |
 | autoplay | 自动播放开关 | autoplay=1 （开） / autoplay=0 （关） |
 | muted    | 静音开关     | muted=1（开） / muted=0（关）         |
+
+## 插件脚本
+
+- [LinuxDo Scripts](https://github.com/anghunk/linuxdo-scripts)：提升 LinuxDo 论坛的使用体验
