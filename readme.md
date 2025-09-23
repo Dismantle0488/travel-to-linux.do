@@ -1,6 +1,6 @@
 # Linux DO 之旅
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.2-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.3-blue)
 
 ## 目录
 
@@ -134,6 +134,7 @@ privaterelay.appleid.com
 
 ## 公告
 
+- [LINUX DO Connect 也已支持隐私邮箱](https://linux.do/t/topic/976544)
 - [关于优化交易、推广需求的变更公告](https://linux.do/t/topic/735935)
 
 ## 集中贴
