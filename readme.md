@@ -15,6 +15,7 @@
 - [Neo 小作文](#neo-小作文)
 - [公告](#公告)
 - [集中贴](#集中贴)
+- [佳贴](#佳贴)
 - [回复增强](#回复增强)
   - [Obsidian Callouts](#obsidian-callouts)
   - [文件](#文件)
@@ -130,12 +131,14 @@ privaterelay.appleid.com
 ## Neo 小作文
 
 - [秘密花园园丁邀请函](https://linux.do/t/topic/847468)
+- [写给即将成为佬友的佬友们](https://linux.do/t/topic/545650)
 - [我有一个执念](https://linux.do/t/topic/971168)
 
 ## 公告
 
 - [LINUX DO Connect 也已支持隐私邮箱](https://linux.do/t/topic/976544)
 - [关于优化交易、推广需求的变更公告](https://linux.do/t/topic/735935)
+- [“已读乱回“ 申请小作文大赏](https://linux.do/t/topic/950136)
 
 ## 集中贴
 
@@ -144,6 +147,19 @@ privaterelay.appleid.com
 - [CodeBuddy 邀请码集中帖](https://linux.do/t/topic/890424)
 - [Google AI Pro 邀请码集中帖](https://linux.do/t/topic/865608)
 - [Coze 邀请码集中帖](https://linux.do/t/topic/575730)
+
+## 佳贴
+
+- [L站免费AI汇总](https://linux.do/t/topic/638821)
+- [claude 普号 公益站点 （后续加pro）](https://linux.do/t/topic/833281)
+- [主流网盘解析,满速下载 ,(百度,夸克,阿里)](https://linux.do/t/topic/914458)
+- [佬友们都领悟了什么独属于自己的人生感悟后觉得人生开始豁达通透起来了？](https://linux.do/t/topic/967738)
+- [【打卡】每日一起俯卧撑打卡吧](https://linux.do/t/topic/496593)
+- [Kai丨【2025年眼镜的选择全攻略】v1.0.3](https://linux.do/t/topic/103275)
+- [ClawCloud Run 部署 AList](https://linux.do/t/topic/557711)
+- [洛雪在线音源（均测试通过）](https://linux.do/t/topic/441948)
+- [【去新帖】完全免费Linuxdo登录直接开聊持续迭代中](https://linux.do/t/topic/664371)
+
 
 ## 回复增强
 
