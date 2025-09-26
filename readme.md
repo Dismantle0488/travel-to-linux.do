@@ -1,28 +1,30 @@
 # Linux DO 之旅
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.3-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dismantle0488/travel-to-linux.do)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dismantle0488/travel-to-linux.do) ![Version](https://img.shields.io/badge/version-v2.0.4-blue)
 
 ## 目录
 
-- [介绍](#介绍)
-- [目标](#目标)
-- [开始](#开始)
-- [认识 L 站](#认识-l-站)
-- [约法三章](#约法三章)
-- [加入](#加入)
-- [社区准则](#社区准则)
-- [相关网页](#相关网页)
-- [Neo 小作文](#neo-小作文)
-- [公告](#公告)
-- [集中贴](#集中贴)
-- [佳贴](#佳贴)
-- [回复增强](#回复增强)
-  - [Obsidian Callouts](#obsidian-callouts)
-  - [文件](#文件)
-  - [插入音频](#插入音频)
-  - [插入视频](#插入视频)
-  - [插入哔哩视频](#插入哔哩视频)
-- [插件脚本](#插件脚本)
+- [Linux DO 之旅](#linux-do-之旅)
+  - [目录](#目录)
+  - [介绍](#介绍)
+  - [目标](#目标)
+  - [开始](#开始)
+  - [认识 L 站](#认识-l-站)
+  - [约法三章](#约法三章)
+  - [加入](#加入)
+  - [社区准则](#社区准则)
+  - [相关网页](#相关网页)
+  - [Neo 小作文](#neo-小作文)
+  - [公告](#公告)
+  - [集中贴](#集中贴)
+  - [佳贴](#佳贴)
+  - [回复增强](#回复增强)
+    - [Obsidian Callouts](#obsidian-callouts)
+    - [文件](#文件)
+    - [插入音频](#插入音频)
+    - [插入视频](#插入视频)
+    - [插入哔哩视频](#插入哔哩视频)
+  - [插件脚本](#插件脚本)
 
 ## 介绍
 
@@ -142,6 +144,7 @@ privaterelay.appleid.com
 
 ## 集中贴
 
+- [萌新论坛指南](https://linux.do/t/topic/26306)
 - [网易云音乐、爱奇艺、腾讯视频等福利集中帖](https://linux.do/t/topic/851040)
 - [Fellou 邀请码集中帖](https://linux.do/t/topic/890429)
 - [CodeBuddy 邀请码集中帖](https://linux.do/t/topic/890424)
